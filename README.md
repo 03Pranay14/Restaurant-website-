@@ -19,10 +19,10 @@ restaurant-frontend/
 │
 ├── css/
 │   ├── styles.css
-│   └── (other CSS files, if applicable)
+│   
 │
 ├── images/
-│   └── (restaurant images, if used)
+│   └── (restaurant images)
 │
 └── (other project-related files or directories)
 ```
